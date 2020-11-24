@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="SampleNamespace" constructor="FluentUISliderReactHooks" version="0.0.1" display-name-key="FluentUISliderReactHooks" description-key="FluentUISliderReactHooks description" control-type="standard">
+    <external-service-usage enabled="true">
+    </external-service-usage>
+    <!-- property node identifies a specific, configurable piece of data that the control expects from CDS -->
+    <property name="myNumber" display-name-key="myNumber" description-key="myNumber" of-type="Whole.None" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+    </resources>
+  </control>
+</manifest>
