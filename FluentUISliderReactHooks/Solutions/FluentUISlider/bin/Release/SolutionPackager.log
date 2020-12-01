@@ -1,0 +1,19 @@
+2020-12-01 16:42:36.637 - Info	
+Packing C:\Users\TSturgeon\source\repos\PCFComponents\FluentUISlider-ReactHooks\FluentUISliderReactHooks\Solutions\FluentUISlider\obj\Release\Metadata to bin\Release\FluentUISlider.zip
+
+2020-12-01 16:42:36.649 - Info	Processing Component: Entities
+2020-12-01 16:42:36.651 - Info	Processing Component: Roles
+2020-12-01 16:42:36.653 - Info	Processing Component: Workflows
+2020-12-01 16:42:36.653 - Info	Processing Component: FieldSecurityProfiles
+2020-12-01 16:42:36.654 - Info	Processing Component: Templates
+2020-12-01 16:42:36.654 - Info	Processing Component: EntityMaps
+2020-12-01 16:42:36.654 - Info	Processing Component: EntityRelationships
+2020-12-01 16:42:36.659 - Info	Processing Component: OrganizationSettings
+2020-12-01 16:42:36.659 - Info	Processing Component: optionsets
+2020-12-01 16:42:36.660 - Info	Processing Component: CustomControls
+2020-12-01 16:42:36.668 - Info	 - SampleNamespace.FluentUISliderReactHooks
+2020-12-01 16:42:36.723 - Info	Processing Component: SolutionPluginAssemblies
+2020-12-01 16:42:36.725 - Info	Processing Component: EntityDataProviders
+2020-12-01 16:42:36.759 - Info	
+Managed Pack complete.
+
